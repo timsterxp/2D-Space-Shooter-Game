@@ -9,7 +9,7 @@ Early 2D Project of A Space Shooter showing:
   - Custom Sprites
   - Physics explosions
   
-Quick Demo: https://youtu.be/_dmd3bkrFkk
+Quick Youtube Demo: https://youtu.be/_dmd3bkrFkk
 
 Credits: 
 
