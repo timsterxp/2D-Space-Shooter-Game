@@ -12,12 +12,12 @@ Early 2D Project of A Space Shooter showing:
   
 Credits: 
 
-https://freesound.org/people/timgormly/sounds/170146/      Explosion
- 
-https://www.fontsquirrel.com/fonts/seasideresortnf         Font 
- 
-https://oblidivmmusic.blogspot.com/                        Background Music
+Font: https://www.fontsquirrel.com/fonts/seasideresortnf    
 
-https://freesound.org/people/aidave/downloaded_sounds/     Laser
+Explosion: https://freesound.org/people/timgormly/sounds/170146/      
+ 
+Background Music: https://oblidivmmusic.blogspot.com/                      
+
+Laser/Missile SFX: https://freesound.org/people/aidave/downloaded_sounds/     
   
   
